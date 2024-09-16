@@ -80,4 +80,5 @@ function draw()
     //for(i=10 i<1000 i+=10)
     //point(i,n)
     //(use javascripts drawingcontest?  )
+    //push
 }
