@@ -6,8 +6,10 @@ function setup()
 
 function draw()
 {
+    
     createCanvas(400,269);
-    background(100);
+    background(10);
+    
     //hair 
     stroke(0);
     strokeWeight(5)
